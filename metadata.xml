@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Russian Grandmother’s Wonder Tales</dc:title>
+      <dc:creator>Louise Seymour Houghton (1838–1920)</dc:creator>
+      <dc:creator>Władysław Teodor Benda (1873–1948)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2014-03-25</dc:publisher>
+      <dc:date>2014-03-25</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+</dc:rights>
+      <dc:subject>Tales -- Slavic countries</dc:subject>
+      <dc:description>A nice collection of Russian folklore stories framed into a story of a Grandmother telling those stories to her grandchild. Includes some nice illustrations.</dc:description>
+      <dc:identifier>pg:45214</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
